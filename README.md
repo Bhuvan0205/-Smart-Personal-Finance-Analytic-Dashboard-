@@ -26,3 +26,9 @@ The dataset includes financial transaction records such as:
 1. Download the .pbix file.
 2. Open it in Power BI Desktop.
 3. Refresh the dataset if required.
+
+## Dashboard Preview
+
+![Main Dashboard](Main dashboard.png)
+![Net Worth Trend](Net worth trend.png)
+![Expense & Savings Trend](Expense savings trend.png)
